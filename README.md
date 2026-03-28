@@ -1,3 +1,5 @@
+[Hacksagon Template.pptx.pdf](https://github.com/user-attachments/files/26323472/Hacksagon.Template.pptx.pdf)
+
 🚀 PreventiQ – Predictive Public Healthcare Analytics
 
 PreventiQ is an AI-powered decision support system designed to transform preventive healthcare in low-resource settings. It leverages real-world government health data to identify invisible gaps in care and predict health risks before they escalate into emergencies.
@@ -7,6 +9,7 @@ PreventiQ is an AI-powered decision support system designed to transform prevent
 Rural healthcare systems don’t just fail due to lack of infrastructure—they fail earlier and silently.
 
 Current systems track who comes for care
+
 But ignore who should have come but didn’t
 These missed preventive opportunities lead to:
 🚨 Emergency cases
